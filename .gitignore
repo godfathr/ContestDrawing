@@ -1,0 +1,6 @@
+﻿*.csv
+/obj
+/bin
+*.csproj.user
+/properties
+*.config
